@@ -21,7 +21,7 @@ The task is to predict how well students answered each question by analyzing the
 
 ## Files
 
-- `student_score_prediction.ipynb` — the full notebook: data loading, preprocessing, training, and prediction
+- `Score_prediction.ipynb` — the full notebook: data loading, preprocessing, training, and prediction
 - `README.md` — project description
 
 ## How to Use
